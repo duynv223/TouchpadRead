@@ -1,0 +1,8 @@
+
+port: 'COM3'
+speed: '9600'
+read_cycle: 0.02
+
+
+
+
